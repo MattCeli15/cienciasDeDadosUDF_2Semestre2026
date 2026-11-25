@@ -8,6 +8,10 @@ Analisar as solicitações e gastos anuais do almoxarifado do FNDE. Qual períod
 
 Os dados são de uma planilha do Excel com 15 colunas e 1964 linhas. A fonte da planilha é o portal de solicitação de serviços do almoxarifado do FNDE.
 
+<img width="1062" height="996" alt="image" src="https://github.com/user-attachments/assets/e7fb5482-8b94-4968-90a8-2ca86bf76891" />
+
+<img width="1907" height="422" alt="image" src="https://github.com/user-attachments/assets/c4d0f657-20e7-45b4-ab34-29d93450392f" />
+
 ## Preparação dos dados
 
 Através do recurso do Power Query, colunas desnecessárias foram romvidas e os tipos dos dados padronizados.
